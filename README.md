@@ -2,6 +2,6 @@
 
 This repository contains my Java solutions for **Advent of Code 2024**, including:
 
-- **Day 6: Restroom Redoubt**
+- **Day 6: Guard Gallivant**
 
-- **Day 14: Robotic Motion**
+- **Day 14: Restroom Redoubt**
